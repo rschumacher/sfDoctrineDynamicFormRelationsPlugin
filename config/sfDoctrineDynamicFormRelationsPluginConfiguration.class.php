@@ -17,3 +17,4 @@ class sfDoctrineDynamicFormRelationsPluginConfiguration extends sfPluginConfigur
     new sfDoctrineDynamicFormRelations($this->dispatcher);
   }
 }
+
